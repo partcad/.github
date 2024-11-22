@@ -2,6 +2,8 @@
 
 ## Intro
 
+<img align="left" src="https://github.com/openvmp/partcad/blob/main/docs/source/images/vscode1.png?raw=true|" alt="Description" width="300"/>
+
 We're a vibrant community of CAD engineers, mechanical, electrical, and software engineers.
 We're from all walks of life: hobbyists, self-employed professionals, and corporate employees.
 We're inspired beginners who are just joining this space and
