@@ -27,3 +27,4 @@ to be the default go-to option for all CAD and PLM needs in the 2nd quarter of t
 - [PartCAD tools](https://github.com/partcad/partcad/)
 - [Browse PartCAD public repository](https://partcad.org/repository)
 - [Contribute to PartCAD public repository](https://github.com/partcad/partcad-index/)
+- [Developer's Handbook](https://partcad.github.io/partcad/)
